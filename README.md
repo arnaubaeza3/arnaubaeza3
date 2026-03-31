@@ -11,7 +11,7 @@
   <a href="https://linkedin.com/in/arnaubaeza" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Arnau_Baeza-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://tryhackme.com/p/arnaubaeza" target="_blank">
+  <a href="https://tryhackme.com/p/arnau.baeza" target="_blank">
     <img src="https://img.shields.io/badge/TryHackMe-Pre_Security_SEC0-212C42?style=for-the-badge&logo=tryhackme&logoColor=red"/>
   </a>
 </div>
@@ -57,6 +57,7 @@
 | Proyecto | Descripción | Stack |
 |---|---|---|
 | 🌐 [arnauserver.me](https://arnauserver.me) | Portfolio personal en producción | Azure · nginx · TLS · HTML/CSS |
+| 📁 [portfolio](https://github.com/arnaubaeza3/portfolio) | Código fuente del portfolio | HTML · CSS · JS |
 | 🖥️ [azure-linux-server](https://github.com/arnaubaeza3/azure-linux-server) | VM Linux con nginx, DNS y HTTPS | Azure · Ubuntu · Certbot |
 
 ---
@@ -64,8 +65,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arnaubaeza3&show_icons=true&theme=dark&hide_border=true&count_private=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaubaeza3&layout=compact&theme=dark&hide_border=true"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arnaubaeza3&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaubaeza3&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
 </div>
 
 ---
@@ -73,8 +74,8 @@
 ## 🔒 TryHackMe
 
 <div align="center">
-  <a href="https://tryhackme.com/p/arnaubaeza" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/arnaubaeza.png" alt="TryHackMe Badge"/>
+  <a href="https://tryhackme.com/p/arnau.baeza" target="_blank">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/arnau.baeza.png" alt="TryHackMe Badge"/>
   </a>
 </div>
 
