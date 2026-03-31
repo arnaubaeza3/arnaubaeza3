@@ -62,25 +62,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=arnaubaeza3&show_icons=true&theme=dark&hide_border=true&count_private=true&cache_seconds=1800"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arnaubaeza3&layout=compact&theme=dark&hide_border=true&cache_seconds=1800"/>
-</div>
-
----
-
-## 🔒 TryHackMe
-
-<div align="center">
-  <a href="https://tryhackme.com/p/arnau.baeza" target="_blank">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/arnau.baeza.png" alt="TryHackMe Badge"/>
-  </a>
-</div>
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=arnaubaeza3&color=blueviolet&style=for-the-badge" alt="Visitas al perfil"/>
 </div>
